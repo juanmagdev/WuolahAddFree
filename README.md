@@ -1,6 +1,6 @@
-# Bot Anti-Publicidad para Documentos Descargados de Woulah
+# Bot Anti-Publicidad para Documentos Descargados de Wuolah
 
-Este es un pequeño repositorio de Github que contiene un bot en Python diseñado para eliminar la publicidad de los documentos descargados de la web Woulah. El bot utiliza la librería Pyatugui para la creación de una interfaz gráfica de usuario.
+Este es un pequeño repositorio de Github que contiene un bot en Python diseñado para eliminar la publicidad de los documentos descargados de la web Wuolah. El bot utiliza la librería Pyatugui para la creación de una interfaz gráfica de usuario.
 
 ## Requerimientos
 
