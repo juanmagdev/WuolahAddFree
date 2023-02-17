@@ -7,9 +7,7 @@ Este es un pequeño repositorio de Github que contiene un bot en Python diseñad
 Antes de utilizar este bot, es necesario contar con los siguientes requerimientos:
 - Tener instalada la aplicación MasterPDFEditor en su versión Pro y mantenerla abierta al momento de ejecutar el bot.
 - Contar con una versión de Python 3.5 o superior instalada en su computadora.
-- Instalar la librería Pyatugui, lo cual se puede hacer fácilmente ejecutando el siguiente comando en la terminal:
-
-`pip install pyautogui`
+- Instalar la librería Pyatugui, lo cual se puede hacer fácilmente ejecutando el siguiente comando en la terminal: `pip install pyautogui`
 
 ## Uso
 
